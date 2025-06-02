@@ -14,3 +14,71 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- Banner (optional) -->
+<p align="center">
+  <img src="https://github.com/MaleehaSheikh/MaleehaSheikh/blob/main/assets/banner.png" alt="Banner showing AI × HCI × Mental-Health Research" width="100%">
+</p>
+
+<h1 align="center">Hi there! 👋 I’m <span style="color:#2F80ED">Maleeha Sheikh</span></h1>
+
+<p align="center">
+  Bridging <strong>Human–Computer Interaction</strong>, <strong>AI-driven mental-health tech</strong>, and <strong>data-informed design</strong>. <br/>
+  Currently finishing my M.S. in Computer Engineering @ Purdue (May 2025) and looking for <em>Summer 2025 Product/Data roles</em>.
+</p>
+
+---
+
+## 🦸‍♀️ Quick About Me
+- 🎓 **Education:**  
+  &nbsp;&nbsp;• M.S. Computer Engineering — Purdue University (CGPA 3.96/4.0, 2023-2025)  
+  &nbsp;&nbsp;• B.S. Information & Communication Engineering — BUP (CGPA 3.67/4.0)  
+- 🧑‍🔬 **Research focus:** Empathetic mental-health chatbots, linguistic style matching, human-value detection, privacy in IoT.  
+- 🎮 **Past roles:** Creative Development Exec @ Orange Box Lab 🎮  • Research lead on empathetic MH chatbot 🤖  
+- 🗣 **Fun stuff:** Cartoon lover, community mentor, forever coffee-powered.
+
+---
+
+## 💼 Selected Projects & Industry Work
+| Type | Project | TL;DR |
+|------|---------|-------|
+| **Research** | **Human Values in MH Chatbots** <br/>*(Ongoing thesis)* | Two-pronged study (chatbot responses + app-store reviews) using LIWC ’22, BERTopic & ValuesML to uncover warmth, authenticity, trust → informs policy for safer AI companions. |
+| **Product** | **Empathetic Chatbot MVP** | Led cross-functional team; integrated user feedback loops; ↗ user engagement 37 %. |
+| **Data** | **California Housing Regression** | Built scalable pipeline and interactive dashboards explaining model bias for non-tech stakeholders. |
+| **Visualization** | **GHC 2024 Connections Map** | D3-powered graph highlighting 150+ women-in-tech mentors met at Grace Hopper. |
+
+*More in pinned repos →*
+
+---
+
+## 🛠 Core Stack
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![LIWC](https://img.shields.io/badge/LIWC-22-blueviolet?style=flat)
+![BERTopic](https://img.shields.io/badge/BERTopic-topic%20modeling-orange?style=flat)
+
+---
+
+## 🎯 Current Interests
+> HCI-centric AI · Large-language-model safety · Digital mental health · Data-driven UX · AR/VR for wellbeing
+
+---
+
+## 📈 GitHub Stats (Optional)
+<!-- Remove this section if you don’t want the cards -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaleehaSheikh" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MaleehaSheikh&show_icons=true&hide_border=true" alt="GitHub Stats"/>
+</p>
+
+---
+
+## 🤝 Let’s Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maleehasheikh) 
+[![Email](https://img.shields.io/badge/Email-maleehasheikh81%40gmail.com-red)](mailto:maleehasheikh81@gmail.com)
+
+<br/><br/>
+
+*“Technology becomes truly powerful only when it feels human.”*
