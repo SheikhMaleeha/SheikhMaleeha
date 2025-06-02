@@ -42,7 +42,8 @@ Here are some ideas to get you started:
 ## 💼 Selected Projects & Industry Work
 | Type | Project | Description |
 |------|---------|-------|
-| **Research** | **HV in MH Chatbots** <br/>*(Ongoing thesis)* | Two-pronged study (chatbot responses + app-store reviews) using LIWC ’22, BERTopic & ValuesML to uncover warmth, authenticity, trust → informs policy for safer AI companions. |
+| **Research** | **HV in MH Chatbots** <br/>*(Ongoing thesis)* | Two-pronged study (chatbot responses + app-store reviews) using LIWC ’22, BERTopic & ValuesML to uncover warmth, authenticity, trust → informs policy for safer AI companions. A field I most vividly wished to work with, just the start in the world of exploring Mental Healthcare industry developing in Technology, loved using the chatbots later as well!|
+| **Data Analysis** | **NETFLIX Dashboard** <br/> | A Dashboard to overview movies and TV Shows in Netflix, understanding the total shows in different countries along with the release year. An interest to explore a site that become a most visited site for me. |
 <!--| **Product** | **Empathetic Chatbot MVP** | Led cross-functional team; integrated user feedback loops; ↗ user engagement 37 %. |
 | **Data** | **California Housing Regression** | Built scalable pipeline and interactive dashboards explaining model bias for non-tech stakeholders. |
 | **Visualization** | **GHC 2024 Connections Map** | D3-powered graph highlighting 150+ women-in-tech mentors met at Grace Hopper. | -->
@@ -95,4 +96,4 @@ Here are some ideas to get you started:
 
 <br/><br/>
 
-*“Technology becomes truly powerful only when it feels human.”*
+<!-- *“Technology becomes truly powerful only when it feels more humane.”* -->
