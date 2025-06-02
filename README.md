@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ---
 
 ## 💼 Selected Projects & Industry Work
-| Type | Project | TL;DR |
+| Type | Project | Description |
 |------|---------|-------|
 | **Research** | **HV in MH Chatbots** <br/>*(Ongoing thesis)* | Two-pronged study (chatbot responses + app-store reviews) using LIWC ’22, BERTopic & ValuesML to uncover warmth, authenticity, trust → informs policy for safer AI companions. |
 <!--| **Product** | **Empathetic Chatbot MVP** | Led cross-functional team; integrated user feedback loops; ↗ user engagement 37 %. |
