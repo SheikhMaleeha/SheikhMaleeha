@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Banner (optional) -->
-<p align="center">
+<!--<p align="center">
   <img src="https://github.com/MaleehaSheikh/MaleehaSheikh/blob/main/assets/banner.png" alt="Banner showing AI × HCI × Mental-Health Research" width="100%">
-</p>
+</p> -->
 
 <h1 align="center">Hi there! 👋 I’m <span style="color:#2F80ED">Maleeha Sheikh</span></h1>
 
@@ -74,19 +74,21 @@ Here are some ideas to get you started:
 ---
 
 ## 🎯 Current Interests
-> HCI-centric AI · Large-language-model safety · Digital mental health · Data-driven UX · AR/VR for wellbeing
+> Data Analysis · Human Computer Interaction · Digital mental health · QA Testing · UI/UX
 
 ---
 
+<!--
 ## 📈 GitHub Stats (Optional)
 <!-- Remove this section if you don’t want the cards -->
+<!--
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaleehaSheikh" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api?username=MaleehaSheikh&show_icons=true&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 ---
-
+-->
 ## 🤝 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maleehasheikh) 
 [![Email](https://img.shields.io/badge/Email-maleehasheikh81%40gmail.com-red)](mailto:maleehasheikh81@gmail.com)
