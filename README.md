@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there! 👋 I’m <span style="color:#2F80ED">Maleeha Sheikh</span></h1>
 
 <p align="center">
-  Bridging <strong>Technology with Business and Innovation</strong>, towards more humane world. <br/>
+  Bridging <strong>Technology with Business and Innovation</strong> <br/> <!--, towards more humane world. -->
   <!--Bridging <strong>Human–Computer Interaction</strong>, <strong>AI-driven mental-health tech</strong>, and <strong>data-informed design</strong>. <br/> -->
   Currently finishing my M.S. in Computer Engineering @ Purdue (2025) and looking for <em>Summer 2025 Product/Data roles</em>.
 </p>
